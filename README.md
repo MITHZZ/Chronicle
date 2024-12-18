@@ -1,8 +1,6 @@
-### Code is in document_sharing
-## Video contains the recorded vides
+### Code is in document_sharing Video contains the recorded vides
 
-
-Document Sharing 1
+### Document Sharing 1
 🤝
 Document Sharing
 As part of this challenge you will implement a sharing mechanism for
